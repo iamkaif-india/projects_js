@@ -1,0 +1,56 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 80px;
+    margin-left: 50px;
+    background-color: rgb(33, 33, 33);
+}
+
+.heading {
+    color: rgb(240, 116, 0);
+    font-size: 40px;
+    text-decoration: underline;
+    text-decoration-color: rgb(205, 205, 205);
+    text-decoration-thickness: 4px;
+}
+
+.input-field {
+    width: 200px;
+    height: 25px;
+    border-radius: 5px;
+    border: 2px solid #ffffff;
+    background-color: rgb(37, 37, 37);
+    color: antiquewhite;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.label {
+    color: antiquewhite;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 600;
+}
+
+#btn {
+    width: 100px;
+    height: 40px;
+    border-radius: 9px;
+    border: 4px solid #ffffff;
+    background-color: rgb(90, 90, 90);
+    color: antiquewhite;
+    margin-left: 0px;
+    margin-bottom: 20px;
+    cursor: pointer;
+    font-size: 17px;
+}
+
+#result {
+    color: antiquewhite;
+    font-size: 20px;
+}
+
+#advice {
+    color: rgb(255, 208, 150);
+    margin-top: 10px;
+    font-style: normal;
+}

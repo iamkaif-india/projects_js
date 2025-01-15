@@ -1,0 +1,56 @@
+body {
+    background-color: rgb(37, 37, 37);
+    padding-left: 30px;
+    padding-top: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    color: antiquewhite;
+}
+
+.button {
+    width: 40px;
+    height: 40px;
+    border: 2px solid #ffffff;
+    margin: 10px;
+    border-radius: 5px;
+    display: flex;
+}
+
+.main {
+    display: flex;
+}
+
+#pink {
+    background-color: rgb(228, 12, 109);
+}
+
+#grey {
+    background-color: rgb(114, 114, 114);
+}
+
+#red {
+    background-color: rgb(255, 0, 0);
+}
+
+#yellow {
+    background-color: rgb(242, 255, 3);
+}
+
+.para {
+    color: antiquewhite;
+}
+
+#borderButton {
+    background-color: rgb(37, 37, 37);
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 5px;
+    width: 150px;
+    color: antiquewhite;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    font-size: large;
+    font-weight: 900;
+}
